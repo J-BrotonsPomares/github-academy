@@ -1,1 +1,2 @@
 "Registro de pacientes fase 1" 
+"Paciente 002 registrado" 
